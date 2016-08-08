@@ -30,3 +30,6 @@ Note -
 	a. change directory to {ex2_root_directory}/serving_scripts/
 	b. run command 'python finalresults.py {word}'. For example, python finalresults.py the
 	c. run command 'python histogram.py {#},{#}. For example, python histogram.py 10,100
+
+
+
